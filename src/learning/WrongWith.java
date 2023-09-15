@@ -27,7 +27,6 @@ public class WrongWith {
         int a =14, b =24;
         if (a % 2 == 0 && b % 2 == 0) {
             System.out.println("a and b are even numbers");
-        }else {
             System.out.println("a and b are not even numbers");
         }
 
