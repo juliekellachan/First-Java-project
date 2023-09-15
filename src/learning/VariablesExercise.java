@@ -23,11 +23,15 @@ public class VariablesExercise {
 //        System.out.println(num3);
 //        System.out.println(++num3);
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter your first name :");
         String firstName = scanner.nextLine();
+        System.out.println("Enter your last name :");
         String lastName = scanner.next();
         System.out.println("Hello " + firstName + " " + lastName);
+        System.out.println("Enter a number :");
         int num1 = scanner.nextInt();
+        System.out.println("Enter another number :");
         int num2 = scanner.nextInt();
-        System.out.println(num1+num2);
+        System.out.println("The sum of your numbers equals " + (num1+num2));
     }
 }
