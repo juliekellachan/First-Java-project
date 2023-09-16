@@ -44,40 +44,40 @@ public class Conditionals {
 //        int num4 = scanner.nextInt();
 //        switch (num4) {
 //            case 1:
-//                System.out.println("January");
+//                System.out.println("January is in Winter");
 //                break;
 //            case 2:
-//                System.out.println("February");
+//                System.out.println("February is in Winter");
 //                break;
 //            case 3:
-//                System.out.println("March");
+//                System.out.println("March is in Spring");
 //                break;
 //            case 4:
-//                System.out.println("April");
+//                System.out.println("April is in Spring");
 //                break;
 //            case 5:
-//                System.out.println("May");
+//                System.out.println("May is in Spring");
 //                break;
 //            case 6:
-//                System.out.println("June");
+//                System.out.println("June is in Summer");
 //                break;
 //            case 7:
-//                System.out.println("July");
+//                System.out.println("July is in Summer");
 //                break;
 //            case 8:
-//                System.out.println("August");
+//                System.out.println("August is in Summer");
 //                break;
 //            case 9:
-//                System.out.println("September");
+//                System.out.println("September is in Autumn");
 //                break;
 //            case 10:
-//                System.out.println("October");
+//                System.out.println("October is in Autumn");
 //                break;
 //            case 11:
-//                System.out.println("November");
+//                System.out.println("November is in Winter");
 //                break;
 //            case 12:
-//                System.out.println("December");
+//                System.out.println("December is in Winter");
 //                break;
 //            default:
 //                System.out.println("Your number was not between 1 and 12");
